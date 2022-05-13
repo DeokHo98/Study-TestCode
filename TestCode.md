@@ -9,7 +9,7 @@ swift로 작성된 함수를 테스트하며 이 함수가 예상대로 작동�
 
 
 # 테스트 피라미드
-https://github.com/DeokHo98/Study-UnitTest-UITest/issues/1#issue-1234782641
+![1_6M7_pT_2HJR-o-AXgkHU0g](https://user-images.githubusercontent.com/93653997/168221847-85f77cb4-dcfc-4145-94d6-2d918350613e.jpeg)
 
 테스트과정은 피라미드 구조로 되어있는데.   
 맨 아래엔 있는건 유닛테스트다.   
